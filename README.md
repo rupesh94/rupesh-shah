@@ -1,3 +1,14 @@
+<!-- Certifications -->
+![AWS Certified](https://img.shields.io/badge/AWS-SAA%20%26%20SAP-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure Certified](https://img.shields.io/badge/Azure-AZ104%20%26%20AZ400-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+<!-- GitHub Activity -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupesh94&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh94&layout=compact&theme=radical)
+
+<!-- Visitor Badge -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=rupesh94&label=Profile+Views&color=blue&style=flat)
+
 # 👋 Hi, I’m Rupesh Shah
 
 🎯 **DevOps & Cloud Engineer**  
