@@ -68,7 +68,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rupesh-shah-638b7711b/)
 - 🐙 [GitHub](https://github.com/your-username)
-- 📨 Email: [YourEmail@example.com]
+- 📨 Email: [shahrupesh300@gmail.com]
 
 ---
 
