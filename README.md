@@ -2,7 +2,7 @@
   <img src="https://github.com/rupesh94/rupesh-shah/blob/main/download.jpeg" width="100"/>
   <img src="https://github.com/rupesh94/rupesh-shah/blob/main/AWS%20SAP.png" width="100"/>
   <img src="https://github.com/rupesh94/rupesh-shah/blob/main/az%20104.png" width="100"/>
-  <img src="https://github.com/rupesh94/rupesh-shah/blob/main/az%20400.jpeg" width="125"/>
+  <img src="https://github.com/rupesh94/rupesh-shah/blob/main/az%20400.jpeg" width="150"/>
 </p>
 
 ---
