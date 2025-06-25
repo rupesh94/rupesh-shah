@@ -57,7 +57,8 @@ Deployed Angular + .NET app using Azure DevOps CI/CD, integrated with App Servic
 
 🔹 **AWS 2-Tier Architecture + DevOps**  
 Deployed Web + DB tier using EC2, RDS, Route53, CloudFront, S3. Added CI/CD, monitoring, and backup automation.  
-📎 _Repo: Private or on request_
+🔗 [View Project Repo](https://github.com/rupesh94/azure-devops-ci-cd-project)
+
 
 🔹 **Kubernetes Deployment (Terraform + Docker + Ansible)**  
 Automated EC2 provisioning with Terraform, configured Ansible, Dockerized Python API and deployed on K8s with NodePort.  
