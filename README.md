@@ -1,76 +1,77 @@
 # 👋 Hi, I’m Rupesh Shah
 
-🎯 **DevOps & Cloud Engineer** | 🧠 AWS & Azure Certified | ⚙️ CI/CD | 🐳 Docker | ☸️ Kubernetes | IaC | Monitoring
+🎯 **DevOps & Cloud Engineer**  
+🧠 AWS & Azure Certified | ⚙️ CI/CD | 🐳 Docker | ☸️ Kubernetes | IaC | Monitoring
 
 ---
 
 ## 💼 About Me
 
-- 👨‍💻 6+ years of experience in IT (4 yrs in Angular frontend, 2 yrs hands-on DevOps projects)
-- ☁️ Strong focus on **AWS**, **Azure**, and modern DevOps tooling
-- 🔁 Skilled in automating deployments, managing infra, and container orchestration
-- 🎓 Trained and certified through **CloudThat** in Azure, AWS, Docker, Terraform, Ansible, and Kubernetes
-- 🤝 Currently working at **Zensar** (Client: Cisco) on DevOps-related responsibilities
+- 👨‍💻 6+ years of experience in IT (4 yrs Angular frontend, 2 yrs in DevOps & Cloud projects)
+- ☁️ Focused on AWS & Azure cloud with strong foundation in DevOps tools
+- 🔁 Skilled in automation, infrastructure as code, containerization & orchestration
+- 🎓 Completed hands-on DevOps & Cloud training from CloudThat (AWS, Azure, Docker, K8s, Ansible, Terraform)
+- 🤝 Currently working at Zensar (Client: Cisco) on DevOps-based responsibilities
 
 ---
 
 ## 🚀 Certifications
 
-- ✅ **AZ-104** – Microsoft Azure Administrator
-- ✅ **AZ-400** – Microsoft DevOps Expert
-- ✅ **AWS Certified Solutions Architect – Associate**
-- ✅ **AWS Certified Solutions Architect – Professional**
+- ✅ **AZ-104** – Microsoft Azure Administrator  
+- ✅ **AZ-400** – Microsoft DevOps Expert  
+- ✅ **AWS Solutions Architect – Associate**  
+- ✅ **AWS Solutions Architect – Professional**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**DevOps & Automation:**  
-`Azure DevOps` `GitHub Actions` `Jenkins` `CI/CD Pipelines` `Terraform` `Ansible`
+### 🔧 DevOps & Automation  
+`Azure DevOps` · `GitHub Actions` · `Jenkins` · `CI/CD Pipelines` · `Terraform` · `Ansible`
 
-**Containers & Orchestration:**  
-`Docker` `Kubernetes (KOPS, AKS, EKS)` `Helm`
+### 🐳 Containers & Orchestration  
+`Docker` · `Kubernetes` (KOPS, AKS, EKS) · `Helm`
 
-**Cloud Platforms:**  
-`AWS` (EC2, RDS, S3, IAM, CloudWatch)  
-`Azure` (VMs, App Services, AKS, Key Vault, Azure Monitor)
+### ☁️ Cloud Platforms  
+`AWS`: EC2, S3, RDS, IAM, VPC, CloudWatch  
+`Azure`: VMs, App Services, AKS, Key Vault, Monitor
 
-**Others:**  
-`Linux` `Shell Scripting` `Git` `Agile` `REST APIs`
+### 💻 Others  
+`Linux` · `Shell Scripting` · `Git` · `Agile` · `REST APIs`
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Azure CI/CD for Microservices  
-> Built end-to-end CI/CD pipeline using Azure DevOps to deploy a .NET & Angular microservices app. Included blob storage, Azure SQL, Function Auth, Key Vault, and App Insights.  
-[📎 GitHub Repo (Private if needed)]()
+### 🔹 Azure CI/CD for Microservices
+Built an end-to-end CI/CD pipeline using Azure DevOps for a .NET + Angular microservices app. Integrated Azure App Services, Azure SQL, Blob, Azure Function Auth, and App Insights.  
+📎 _[GitHub Repo – Private]_
 
-### 🔹 AWS 2-Tier Architecture + DevOps  
-> Hosted web & DB tier on AWS using EC2 & RDS, configured AutoScaling, IAM policies, VPC, Route53, CloudFront, S3, CloudTrail, and built monitoring & backup flows.  
-[📎 GitHub Repo (Private if needed)]()
+### 🔹 AWS 2-Tier Architecture + DevOps
+Created a complete AWS infrastructure with EC2, RDS, AutoScaling, Route53, CloudFront, and S3. Secured IAM access, enabled CloudTrail, monitoring, and decoupled architecture using SQS/SNS.  
+📎 _[GitHub Repo – Private]_
 
-### 🔹 K8s Deployment with Docker & Terraform  
-> Automated EC2 infra creation using Terraform, configured Ansible, containerized Python API using Docker, and deployed to K8s with NodePort service.  
-[📎 GitHub Repo (Private if needed)]()
+### 🔹 K8s Deployment with Docker & Terraform
+Automated EC2 infra using Terraform, set up Ansible, containerized a Python API using Docker, and deployed on Kubernetes with NodePort.  
+📎 _[GitHub Repo – Private]_
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- GitOps & Helm Charts
-- Prometheus + Grafana for custom monitoring
-- Multi-cloud CI/CD design strategies
+- GitOps with ArgoCD  
+- Prometheus + Grafana monitoring stack  
+- Multi-cloud CI/CD design patterns
 
 ---
 
 ## 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rupesh-shah-638b7711b/)
-- 🐙 [GitHub](https://github.com/your-username)
-- 📨 Email: [shahrupesh300@gmail.com]
+- 🐙 [GitHub](https://github.com/rupesh94)
+- 📧 Email: **shahrupesh300@gmail.com**  
+- 📱 Mobile: **+91 9561204254**
 
 ---
 
-_“Consistency and curiosity are the real DevOps superpowers!”_
-
+> 🧩 *“Consistency and curiosity are the real DevOps superpowers!”*
